@@ -12,5 +12,8 @@
   "dependencies": {
     "commander": "^5.0.0",
     "marked": "^0.8.2"
+  },
+  "devDependencies": {
+    "mocha": "^7.1.1"
   }
 }
